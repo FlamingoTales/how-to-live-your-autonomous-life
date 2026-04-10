@@ -13,7 +13,7 @@
     </ns0:owner>
     <ns0:category text="Self-Improvement"/>
     <ns0:keywords>autonomy, conscious choice, personal development, self-directed living, life design, decision-making</ns0:keywords>
-    <ns0:image href="https://how-to-live-your-autonomous-life-podcast.s3.us-east-2.amazonaws.com/cover.jpg"/>
+    <ns0:image href="https://how-to-live-your-autonomous-life-podcast.s3.us-east-2.amazonaws.com/cover.png"/>
     <item>
       <title>Did You Choose This?</title>
       <description>Noah and Ellis explore a fundamental question: How much of your life did you actually choose? They discuss the difference between making choices and choosing the framework those choices live in — the menu vs restaurant problem. Ellis shares her journey from following a default path to consciously questioning and redesigning her life. A conversation about autonomy, defaults, and what it really means to choose.</description>
@@ -160,7 +160,7 @@ honestly enough to ask: is this mine and how could it be different?
       <ns0:episodeType>full</ns0:episodeType>
       <ns0:duration>00:09:31</ns0:duration>
       <ns0:summary>Noah and Ellis explore a fundamental question: How much of your life did you actually choose? They discuss the difference between making choices and choosing the framework those choices live in — the menu vs restaurant problem. Ellis shares her journey from following a default path to consciously questioning and redesigning her life. A conversation about autonomy, defaults, and what it really means to choose.</ns0:summary>
-      <ns0:image href="https://how-to-live-your-autonomous-life-podcast.s3.us-east-2.amazonaws.com/cover.jpg"/>
+      <ns0:image href="https://how-to-live-your-autonomous-life-podcast.s3.us-east-2.amazonaws.com/cover.png"/>
       <ns0:keywords>autonomy, choice, conscious living, defaults, decision-making, personal agency, self-directed life, financial independence</ns0:keywords>
       <enclosure url="https://how-to-live-your-autonomous-life-podcast.s3.us-east-2.amazonaws.com/S01E01_did-you-choose-this.mp3" type="audio/mpeg" length="9140929"/>
     </item>
