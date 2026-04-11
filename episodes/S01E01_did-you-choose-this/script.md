@@ -1,3 +1,4 @@
+# Chapter: The question that started it all
 [Noah] How much of your life did you actually choose?
 
 [pause]
@@ -12,6 +13,7 @@ a good answer. And I've been thinking about it ever since. [pause]
 The person that dropped that bomb on me.. is Ellis, and she's here with me today. Welcome to
 How To Live Your Autonomous Life. I'm Noah.
 
+# Chapter: Meet Ellis
 [Ellis] And I'm Ellis.
 
 [pause]
@@ -41,6 +43,7 @@ you pick and make the best from the options that are in front of you.. you make 
 
 [Noah] [hesitates] ..is that not what I'm doing?
 
+# Chapter: The menu vs the restaurant
 [Ellis] Yeah, that's the thing. You're
 making choices — REAL choices. But you're choosing from a menu
 in a restaurant. Should I pick A, B or C.
@@ -93,6 +96,7 @@ restaurant." But you're saying —
 [Ellis] You can't undo. Which is the uncomfortable part.
 Because now you actually HAVE to decide.
 
+# Chapter: Looking at your actual options
 [Noah] So — what does it actually mean to look? Because I think
 this is where it gets practical for people. You can't just, like,
 wake up one morning and decide to question everything.
@@ -120,6 +124,7 @@ than the one I was pursuing.. So I started making choices — small ones,
 consistently — every day, to become a little less dependent on NEEDING a job
 to be okay.
 
+# Chapter: Conscious choice vs the default path
 [Noah] And, and that's different from just — deciding to do things
 differently.
 
@@ -188,6 +193,7 @@ inside of. And I don't know what to do with that yet.
 
 [Noah] It still does. [pause] Which is probably why we're here.
 
+# Chapter: Pick one thing. Look at it.
 [Ellis] Well, don't overthink it. You don't have to question everything
 at once. That's not how this works. You just... pick one thing.
 
